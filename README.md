@@ -1,2 +1,2 @@
-# PAT-KASQL2
+# PATİKASQL2
 PatikaSQL Eğitimi Ödev2
